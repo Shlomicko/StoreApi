@@ -11501,28 +11501,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/shlomibittan/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Amit\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shlomibittan/Projects/StoreApi/StoreApi/StoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\Amit\\Documents\\GitHub\\StoreApi\\StoreApi\\StoreApi.csproj",
       "projectName": "StoreApi",
-      "projectPath": "/Users/shlomibittan/Projects/StoreApi/StoreApi/StoreApi.csproj",
-      "packagesPath": "/Users/shlomibittan/.nuget/packages/",
-      "outputPath": "/Users/shlomibittan/Projects/StoreApi/StoreApi/obj",
+      "projectPath": "C:\\Users\\Amit\\Documents\\GitHub\\StoreApi\\StoreApi\\StoreApi.csproj",
+      "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Amit\\Documents\\GitHub\\StoreApi\\StoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/shlomibittan/.config/NuGet/NuGet.Config"
+        "C:\\Users\\Amit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11542,17 +11544,17 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.1.1"
+            "version": "[2.1.1, )",
+            "autoReferenced": true
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.1.0, )",
+            "autoReferenced": true
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "11.0.2"
-          },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.1.0",
-            "autoReferenced": true
+            "version": "[11.0.2, )"
           }
         },
         "imports": [
