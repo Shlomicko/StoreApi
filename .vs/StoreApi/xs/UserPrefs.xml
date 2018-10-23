@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4EB303D6-FAFF-4C7A-90D2-BE7C52A88E33}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreApi/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="StoreApi/Startup.cs" Line="34" Column="2" />
+      <File FileName="StoreApi/Program.cs" Line="1" Column="1" />
+      <File FileName="StoreApi/Models/Product.cs" Line="33" Column="8" />
+      <File FileName="StoreApi/Models/MockData.cs" Line="11" Column="6" />
+      <File FileName="StoreApi/Controllers/ProductController.cs" Line="20" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StoreApi PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
