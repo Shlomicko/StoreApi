@@ -1,7 +1,8 @@
-﻿using System;
+﻿using StoreApi.DAL;
+using System;
 namespace StoreApi.Models
 {
-    public class Product
+    public class Product :IProduct
     {
         public string Name
         {

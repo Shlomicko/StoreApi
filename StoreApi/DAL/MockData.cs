@@ -1,30 +1,31 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
+using StoreApi.DAL;
 
-namespace StoreApi.Models
+namespace StoreApi.Data
 {
-    public static class MockData
+    public class MockData : IDataFetch
     {
         private static int Id { get; set; } = 0;
 
-        private static List<Product> products = new List<Product>();
+        private List<IProduct> products = new List<IProduct>();
 
 
-        public static void AddProduct(Product product)
+        public void AddProduct(IProduct product)
         {
             Id++;
             product.Id = Id;
             products.Add(product);
         }
 
-        public static Product RemoveProduct(Product product)
+        public IProduct RemoveProduct(IProduct product)
         {
             products.Remove(product);
             return product;
         }
 
-        public static bool RemoveProduct(int id)
+        public bool RemoveProduct(int id)
         {
         
             products.Remove(GetProductById(id));
@@ -32,14 +33,14 @@ namespace StoreApi.Models
         }
 
 
-        public static Product GetProductById(int id)
+        public IProduct GetProductById(int id)
         {
-            Product product = products.Where(producta => producta.Id == id).FirstOrDefault();
+            IProduct product = products.Where(producta => producta.Id == id).FirstOrDefault();
             return product;
         }
 
 
-        public static List<Product> GetData()
+        public List<IProduct> GetData()
         {
             return products;
         }

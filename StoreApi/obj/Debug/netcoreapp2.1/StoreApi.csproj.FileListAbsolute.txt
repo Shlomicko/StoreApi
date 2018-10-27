@@ -12,3 +12,17 @@ C:\Users\Amit\Documents\GitHub\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreAp
 C:\Users\Amit\Documents\GitHub\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.dll
 C:\Users\Amit\Documents\GitHub\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.pdb
 C:\Users\Amit\Documents\GitHub\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.csprojAssemblyReference.cache
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.csprojAssemblyReference.cache
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.csproj.CoreCompileInputs.cache
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.RazorAssemblyInfo.cache
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.RazorAssemblyInfo.cs
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.AssemblyInfoInputs.cache
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.AssemblyInfo.cs
+D:\Joseph\StoreApi\StoreApi\bin\Debug\netcoreapp2.1\StoreApi.deps.json
+D:\Joseph\StoreApi\StoreApi\bin\Debug\netcoreapp2.1\StoreApi.runtimeconfig.json
+D:\Joseph\StoreApi\StoreApi\bin\Debug\netcoreapp2.1\StoreApi.runtimeconfig.dev.json
+D:\Joseph\StoreApi\StoreApi\bin\Debug\netcoreapp2.1\StoreApi.dll
+D:\Joseph\StoreApi\StoreApi\bin\Debug\netcoreapp2.1\StoreApi.pdb
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.RazorTargetAssemblyInfo.cache
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.dll
+D:\Joseph\StoreApi\StoreApi\obj\Debug\netcoreapp2.1\StoreApi.pdb
